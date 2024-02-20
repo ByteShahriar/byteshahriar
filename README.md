@@ -2,6 +2,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=ByteShahriar" alt="ByteShahriar"/>
 
-As Synerlynx's CEO, I lead a tech company specializing in innovative solutions across various industries. Our team is committed to pushing technological boundaries, fostering digital transformation, and delivering cutting-edge products and services globally. Emphasizing collaboration, creativity, and efficiency, we aim to lead in technological advancements, empowering businesses to thrive in the ever-evolving digital landscape.
-
-Childhood passion for technology has influenced me into the dynamic world of innovation. From gadget tinkering to exploring the latest advancements, my curiosity remains a driving force. Now, as an IT industry professional, I channel this lifelong passion to contribute to groundbreaking projects, tackle complex challenges, and stay at the forefront of technological evolution.
+As an IT professional, I am dedicated to providing comprehensive services and solutions to help individuals and businesses overcome their IT challenges with ease. Whether it's troubleshooting technical issues, implementing efficient systems, or offering tailored solutions, my goal is to streamline processes and enhance productivity. With a focus on innovation and customer satisfaction, I strive to deliver reliable support and expertise to empower my clients in navigating the complexities of modern technology effortlessly.
